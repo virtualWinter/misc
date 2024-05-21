@@ -9,6 +9,7 @@ on the maven side
     <url>https://raw.githubusercontent.com/virtualWinter/misc/main/repo/</url>
     </repository>
 </repositories>
+
 <dependencies>
   <dependency>
     <groupId>org.spigotmc</groupId>
