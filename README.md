@@ -17,6 +17,6 @@ on the maven side
     <version>1.8.8-SNAPSHOT</version>
     <type>jar</type>
     <scope>compile</scope>
-    </dependency>
+  </dependency>
 </dependencies>
 ```
