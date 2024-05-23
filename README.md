@@ -7,7 +7,7 @@ on the maven side
   <repository>
     <id>winter-misc-repository</id>
     <url>https://raw.githubusercontent.com/virtualWinter/misc/main/repo/</url>
-    </repository>
+  </repository>
 </repositories>
 
 <dependencies>
